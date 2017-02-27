@@ -1,0 +1,23 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mikaiskut.com" resolutions="1x" timestamp="1488205048155">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3786175562" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="amtlib.dll" crc="104563309" seo="true" mt="1488204609000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="saw.jpg" crc="4255941499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4009635156" seo="true" mt="1488204948881" redirect="true"/>
+</manifest>
